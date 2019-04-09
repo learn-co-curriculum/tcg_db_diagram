@@ -12,3 +12,5 @@ It's often useful to visualize your data models and the relationships between th
 - Add a new model with a few different types of columns
 - Add a new relationship between models
 - Move the boxes around the views to visualize the relationships
+
+As you go through the next set of exercises on data modeling, use this tool to capture your data models before you start implementing the classes, and update the design in the tool to reflect changes you make as you implement your solution in code.
